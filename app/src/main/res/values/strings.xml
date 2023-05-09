@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyStoryApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac maximus tellus. Phasellus leo risus, sodales sed sollicitudin vel, tincidunt et felis. Proin blandit et nisi eu rutrum. Cras lacus dolor, venenatis ac interdum scelerisque, fringilla dignissim felis. Pellentesque non leo id purus convallis porta vitae eget velit. Aliquam et nulla eget dui mattis facilisis. Etiam eu bibendum ipsum, condimentum varius sem. Curabitur tristique non est in ultrices. Nam commodo rhoncus maximus. Vestibulum augue mi, fringilla non tortor at, hendrerit scelerisque nunc. Fusce nunc magna, tincidunt scelerisque convallis id, tincidunt quis ante.</string>
+    <string name="my_story_apps">My Story Apps</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar">Daftar sekarang</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="nama">Nama</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="masuk_lower">Masuk</string>
+    <string name="daftar_akun_capital">DAFTAR AKUN</string>
+    <string name="upload_foto">Upload Foto</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="tulis_deskripsi">Tulis deskripsi...</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map_tracking">MapTrackingActivity</string>
+    <string name="retry">Coba lagi</string>
+</resources>
